@@ -242,3 +242,7 @@ No license has been specified for this project.
 ---
 
 Built to make Calculus III a little easier to visualize.
+
+## Advanced Geometry extension
+
+The navigation now includes **Advanced Geometry**: restricted surfaces, composite bounded solids, cylindrical/spherical regions, difficulty levels, reverse bounds questions, and independent progress/history. See [the Advanced Geometry guide](docs/advanced-geometry.md) for completed phases, mathematical conventions, architecture, tests, and renderer limitations.
